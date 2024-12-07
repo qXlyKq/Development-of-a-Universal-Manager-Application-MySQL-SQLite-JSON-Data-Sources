@@ -1,0 +1,1 @@
+# Development-of-a-Universal-Manager-Application-MySQL-SQLite-JSON-Data-Sources
